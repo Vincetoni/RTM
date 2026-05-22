@@ -1,0 +1,455 @@
+{
+  "overview": {
+    "goal": "MIT admission",
+    "target_application_rounds": {
+      "early_action": {
+        "deadline": "2027-11-01",
+        "recommended_target": true
+      },
+      "regular_action": {
+        "deadline": "2028-01-05",
+        "backup_target": true
+      }
+    },
+    "current_date": "2026-05-22",
+    "primary_target_deadline": "2027-11-01",
+    "days_remaining_to_primary_deadline": 528,
+    "current_status": {
+      "age": 17,
+      "math_level": "Below average",
+      "main_constraint": "Need to build math fundamentals before high-intensity SAT and competition prep"
+    },
+    "target_scores": {
+      "sat_math": "780-800",
+      "sat_total": "As high as possible, with math as the main priority",
+      "practice_threshold_before_final_attempts": "780-800 SAT Math consistently across multiple timed sections"
+    },
+    "weekly_hours_total": 25,
+    "strategy": "Build fundamentals first, then increase timed SAT practice, then add deeper competition math and application work."
+  },
+  "official_deadlines_and_dates": {
+    "mit": {
+      "early_action_application_due": "2027-11-01",
+      "early_action_testing_deadline": "SAT or ACT may be taken through the November test date",
+      "regular_action_application_due": "2028-01-05",
+      "regular_action_testing_deadline": "SAT or ACT may be taken through the December test date",
+      "testing_policy": "MIT requires SAT or ACT and superscores sections",
+      "sources": [
+        "https://mitadmissions.org/apply/firstyear/deadlines-requirements/",
+        "https://mitadmissions.org/apply/firstyear/tests-scores/"
+      ]
+    },
+    "sat_planned_dates": [
+      {
+        "date": "2026-08-22",
+        "purpose": "First real SAT diagnostic if ready enough"
+      },
+      {
+        "date": "2026-09-12",
+        "purpose": "Retake only if August diagnostic shows useful progress"
+      },
+      {
+        "date": "2026-10-03",
+        "purpose": "Main fall 2026 score-building attempt"
+      },
+      {
+        "date": "2026-11-07",
+        "purpose": "Second fall 2026 attempt"
+      },
+      {
+        "date": "2026-12-05",
+        "purpose": "Final 2026 attempt if practice scores justify it"
+      },
+      {
+        "date": "2027-03-06",
+        "purpose": "First 2027 serious score attempt"
+      },
+      {
+        "date": "2027-05-01",
+        "purpose": "Final spring score attempt"
+      },
+      {
+        "date": "2027-06-05",
+        "purpose": "Backup final attempt before application season"
+      }
+    ],
+    "sat_source": "https://satsuite.collegeboard.org/sat/dates-deadlines"
+  },
+  "phases": {
+    "phase_1_foundation": {
+      "dates": "2026-05-22 to 2026-08-31",
+      "focus": "Math fundamentals, study habits, first SAT diagnostic",
+      "target_sat_math_range": "500-650",
+      "weekly_priorities": [
+        "Algebra fluency",
+        "Geometry basics",
+        "Data analysis",
+        "Error log discipline",
+        "One timed SAT Math section each Saturday"
+      ]
+    },
+    "phase_2_building": {
+      "dates": "2026-09-01 to 2027-02-28",
+      "focus": "SAT score growth, speed, accuracy, AMC 12 preparation",
+      "target_sat_math_range": "650-750",
+      "weekly_priorities": [
+        "Timed practice",
+        "Harder Module 2 SAT questions",
+        "AMC 12 topic sets",
+        "Careless-error reduction",
+        "Monthly full Bluebook practice test"
+      ]
+    },
+    "phase_3_mastery_and_application": {
+      "dates": "2027-03-01 to 2027-10-31",
+      "focus": "Final SAT polish, competition depth, MIT application execution",
+      "target_sat_math_range": "780-800",
+      "weekly_priorities": [
+        "Maintain math speed and accuracy",
+        "Complete final SAT attempts",
+        "Draft MIT essays",
+        "Finalize activities list",
+        "Secure recommendations",
+        "Prepare optional portfolio if relevant"
+      ]
+    }
+  },
+  "weekly_schedule_25_hours": {
+    "monday": {
+      "theme": "Algebra and Functions",
+      "time_blocks": [
+        {
+          "duration_minutes": 60,
+          "task": "Concept review: linear equations, systems, functions, or quadratics"
+        },
+        {
+          "duration_minutes": 90,
+          "task": "Practice set from Khan Academy or SAT question bank"
+        },
+        {
+          "duration_minutes": 30,
+          "task": "Review mistakes and update error log"
+        }
+      ],
+      "total_hours": 3
+    },
+    "tuesday": {
+      "theme": "Problem Solving and Data Analysis",
+      "time_blocks": [
+        {
+          "duration_minutes": 60,
+          "task": "Ratios, percentages, statistics, probability"
+        },
+        {
+          "duration_minutes": 90,
+          "task": "SAT-style practice questions"
+        },
+        {
+          "duration_minutes": 30,
+          "task": "Redo missed questions without looking at solutions"
+        }
+      ],
+      "total_hours": 3
+    },
+    "wednesday": {
+      "theme": "Advanced Math",
+      "time_blocks": [
+        {
+          "duration_minutes": 60,
+          "task": "Polynomials, radicals, rational expressions, quadratics"
+        },
+        {
+          "duration_minutes": 90,
+          "task": "Mixed medium-to-hard SAT problems"
+        },
+        {
+          "duration_minutes": 30,
+          "task": "Error log and formula review"
+        }
+      ],
+      "total_hours": 3
+    },
+    "thursday": {
+      "theme": "Geometry and Trigonometry",
+      "time_blocks": [
+        {
+          "duration_minutes": 60,
+          "task": "Lines, angles, triangles, circles, coordinate geometry, trig ratios"
+        },
+        {
+          "duration_minutes": 90,
+          "task": "Geometry-focused SAT practice"
+        },
+        {
+          "duration_minutes": 30,
+          "task": "Redo missed geometry problems"
+        }
+      ],
+      "total_hours": 3
+    },
+    "friday": {
+      "theme": "Mixed Review and Weak Areas",
+      "time_blocks": [
+        {
+          "duration_minutes": 45,
+          "task": "Review the week's error log"
+        },
+        {
+          "duration_minutes": 90,
+          "task": "Mixed practice set focused on weak areas"
+        },
+        {
+          "duration_minutes": 45,
+          "task": "Redo problems missed earlier in the week"
+        }
+      ],
+      "total_hours": 3
+    },
+    "saturday": {
+      "theme": "Timed SAT Math and Competition Practice",
+      "time_blocks": [
+        {
+          "duration_minutes": 70,
+          "task": "Timed SAT Math section"
+        },
+        {
+          "duration_minutes": 80,
+          "task": "Detailed review of every missed, guessed, or slow question"
+        },
+        {
+          "duration_minutes": 90,
+          "task": "AMC 12 or AoPS problem set"
+        },
+        {
+          "duration_minutes": 60,
+          "task": "Update score tracker and error log"
+        }
+      ],
+      "total_hours": 5
+    },
+    "sunday": {
+      "theme": "Reading/Writing, Planning, and Recovery",
+      "time_blocks": [
+        {
+          "duration_minutes": 90,
+          "task": "SAT Reading and Writing practice section or targeted grammar practice"
+        },
+        {
+          "duration_minutes": 90,
+          "task": "Weak math area deep dive"
+        },
+        {
+          "duration_minutes": 60,
+          "task": "Weekly review: hours, scores, errors, next week's targets"
+        },
+        {
+          "duration_minutes": 60,
+          "task": "Light review, flashcards, or rest if burned out"
+        }
+      ],
+      "total_hours": 5
+    }
+  },
+  "daily_next_steps": {
+    "2026-05-23": {
+      "day": "Saturday",
+      "priority": "Baseline diagnostic",
+      "tasks": [
+        "Take one timed SAT Math section",
+        "Grade it carefully",
+        "Log every missed, guessed, or slow question",
+        "Label each mistake by topic and cause"
+      ]
+    },
+    "2026-05-24": {
+      "day": "Sunday",
+      "priority": "Build the first weekly plan",
+      "tasks": [
+        "Review diagnostic results",
+        "Choose top 3 weak areas",
+        "Set next week's score and topic goals",
+        "Do 60 minutes of light review"
+      ]
+    },
+    "2026-05-25": {
+      "day": "Monday",
+      "priority": "Algebra foundation",
+      "tasks": [
+        "Study linear equations and systems",
+        "Complete 25 targeted practice problems",
+        "Redo all missed problems",
+        "Update error log"
+      ]
+    },
+    "2026-05-26": {
+      "day": "Tuesday",
+      "priority": "Data analysis",
+      "tasks": [
+        "Study ratios, percentages, statistics, and probability",
+        "Complete 25 targeted practice problems",
+        "Write one sentence explaining each mistake",
+        "Review yesterday's algebra misses"
+      ]
+    },
+    "2026-05-27": {
+      "day": "Wednesday",
+      "priority": "Advanced algebra",
+      "tasks": [
+        "Study quadratics, radicals, and polynomials",
+        "Complete 20 SAT-style problems",
+        "Redo all missed questions without help",
+        "Add formulas and patterns to review notes"
+      ]
+    },
+    "2026-05-28": {
+      "day": "Thursday",
+      "priority": "Geometry",
+      "tasks": [
+        "Study triangles, circles, angles, and coordinate geometry",
+        "Complete 25 geometry problems",
+        "Make a formula sheet",
+        "Redo missed geometry questions"
+      ]
+    },
+    "2026-05-29": {
+      "day": "Friday",
+      "priority": "Weekly consolidation",
+      "tasks": [
+        "Review all mistakes from Monday through Thursday",
+        "Complete one mixed practice set",
+        "Redo the 10 hardest missed questions of the week",
+        "Prepare for Saturday's timed section"
+      ]
+    }
+  },
+  "monthly_milestones": {
+    "2026-06": {
+      "sat_math_practice_target": "500-550",
+      "focus": "Algebra foundations and digital SAT format",
+      "actions": [
+        "Create error log",
+        "Complete one timed SAT Math section every Saturday",
+        "Start AMC 12 problem of the day only after daily SAT work is complete"
+      ]
+    },
+    "2026-07": {
+      "sat_math_practice_target": "550-600",
+      "focus": "Geometry, basic trig, stronger algebra",
+      "actions": [
+        "Take first full Bluebook practice test",
+        "Complete at least 50 AMC 12 problems across the month",
+        "Identify top 5 recurring SAT Math mistake types"
+      ]
+    },
+    "2026-08": {
+      "sat_math_practice_target": "600-650",
+      "focus": "Advanced math, data analysis, first real SAT diagnostic",
+      "actions": [
+        "Take the 2026-08-22 SAT if practice score is stable enough",
+        "Review official score report deeply",
+        "Reset weak-area plan for September"
+      ]
+    },
+    "2026-09": {
+      "sat_math_practice_target": "650-700",
+      "focus": "Speed, accuracy, careless-error reduction",
+      "actions": [
+        "Retake SAT on 2026-09-12 only if useful",
+        "Register for AMC 12 when registration is available",
+        "Begin harder Module 2 SAT Math practice"
+      ]
+    },
+    "2026-10": {
+      "sat_math_practice_target": "700-720",
+      "focus": "Hard SAT Math and AMC 12 intensity",
+      "actions": [
+        "Take SAT on 2026-10-03 if practice scores justify it",
+        "Complete weekly AMC 12 timed sets",
+        "Reduce careless errors to fewer than 2 per timed section"
+      ]
+    },
+    "2026-11": {
+      "sat_math_practice_target": "720-750",
+      "focus": "Consistency and competition testing",
+      "actions": [
+        "Take SAT on 2026-11-07 if needed",
+        "Take AMC 12 if registered",
+        "Review competition performance and decide whether to continue AIME prep"
+      ]
+    },
+    "2026-12": {
+      "sat_math_practice_target": "750+",
+      "focus": "Final 2026 polish",
+      "actions": [
+        "Take SAT on 2026-12-05 if practice scores are strong",
+        "Analyze score trends",
+        "Plan final 2027 SAT attempts"
+      ]
+    },
+    "2027-01_to_2027-06": {
+      "sat_math_practice_target": "780-800",
+      "focus": "Final SAT score and deeper problem solving",
+      "actions": [
+        "Take SAT on 2027-03-06, 2027-05-01, or 2027-06-05 as needed",
+        "Keep one weekly math maintenance block after reaching target score",
+        "Start building MIT activities and honors list"
+      ]
+    },
+    "2027-07_to_2027-10": {
+      "sat_math_practice_target": "Maintain 780-800",
+      "focus": "MIT application",
+      "actions": [
+        "Draft MIT essays in July and August",
+        "Ask teachers for recommendations by early September",
+        "Finalize activities list by September",
+        "Complete application review by mid-October",
+        "Submit Early Action before 2027-11-01"
+      ]
+    }
+  },
+  "resources": {
+    "math_foundation": [
+      "Khan Academy SAT Math",
+      "College Panda SAT Math Workbook",
+      "Official College Board question bank"
+    ],
+    "hard_sat_math": [
+      "Dr. Chung's SAT Math",
+      "Bluebook official practice tests",
+      "College Board question bank hard questions"
+    ],
+    "competition_math": [
+      "AoPS Volume 1",
+      "AoPS Alcumus",
+      "Past AMC 12 problems from MAA"
+    ],
+    "tracking": [
+      "Error notebook",
+      "Score tracker spreadsheet",
+      "Weekly review checklist"
+    ]
+  },
+  "rules": {
+    "non_negotiables": [
+      "Study math at least 6 days per week",
+      "Update the error log after every serious practice session",
+      "Redo missed problems without looking at the solution",
+      "Take one timed SAT Math section every Saturday",
+      "Sleep at least 7 hours whenever possible",
+      "No phone during timed or deep-study blocks"
+    ],
+    "flexibility": [
+      "If school or life gets heavy, do a minimum version: 60 minutes math plus 20 minutes review",
+      "If sick, rest fully and resume the next day",
+      "If burnout appears, replace one evening with light review and sleep",
+      "If practice scores stall for 3 weeks, change the study method instead of just adding hours"
+    ],
+    "weekly_review_questions": [
+      "How many hours did I actually study?",
+      "What was my latest timed SAT Math score?",
+      "What were my top 3 mistake types?",
+      "Which topic improved most?",
+      "What is the single highest-priority topic for next week?"
+    ]
+  }
+}
